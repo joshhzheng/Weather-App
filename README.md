@@ -1,10 +1,14 @@
 # Weather App 
 
 ## Installation and Usage
+CD to SERVER directory and touch .env\
+Go into the .env file and set api="your-api-key-here"\
+Get free OpenWeatherMap API key from https://openweathermap.org/api\
 
-Create a .env file in the server folder and set api="your-api-key-here"\
-Get weather API key from https://openweathermap.org/api
+CD to SERVER directory and run `npm i`\
+CD to CLIENT directory and run `npm i`\
 
+then run `npm start` in CLIENT directory.
 
 # Getting Started with Create React App
 
