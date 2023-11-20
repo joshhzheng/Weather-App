@@ -1,3 +1,11 @@
+# Weather App 
+
+## Installation and Usage
+
+Create a .env file in the server folder and set api="your-api-key-here"
+Get weather API key from https://openweathermap.org/api
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
