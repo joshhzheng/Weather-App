@@ -2,7 +2,7 @@
 
 ## Installation and Usage
 
-Create a .env file in the server folder and set api="your-api-key-here"
+Create a .env file in the server folder and set api="your-api-key-here"\
 Get weather API key from https://openweathermap.org/api
 
 
