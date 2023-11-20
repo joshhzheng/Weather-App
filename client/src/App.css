@@ -1,0 +1,21 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 50px;
+    width: 100vw;
+    height: 100vw;
+    background-size: 50px 50px;
+    background-color: #0ae;
+    background-image: -webkit-linear-gradient(rgba(255, 255, 255, .2) 50%, transparent 50%, transparent);
+    background-image: -moz-linear-gradient(rgba(255, 255, 255, .2) 50%, transparent 50%, transparent);
+    background-image: -ms-linear-gradient(rgba(255, 255, 255, .2) 50%, transparent 50%, transparent);
+    background-image: -o-linear-gradient(rgba(255, 255, 255, .2) 50%, transparent 50%, transparent);
+    background-image: linear-gradient(rgba(255, 255, 255, .2) 50%, transparent 50%, transparent);
+}
+ 
+#location {
+    color: white;
+    font-style: italic;
+}
