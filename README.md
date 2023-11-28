@@ -6,7 +6,7 @@ Go into the .env file and set api="your-api-key-here"\
 Get free OpenWeatherMap API key from https://openweathermap.org/api\
 
 CD to SERVER directory and run `npm i` \
-CD to CLIENT directory and run `npm i` \
+CD to CLIENT directory and run `npm i` 
 
 then run `npm start` in CLIENT directory.
 
