@@ -1,8 +1,7 @@
-// App.js
 import React, { useEffect, useState } from "react";
-import "./App.css";
 import LocationInfo from "./Components/LocationData";
 import fetchData from "./Components/Api";
+import "./App.css";
 
 const App = () => {
   const [locationData, setLocationData] = useState(null);
