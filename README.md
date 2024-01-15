@@ -15,24 +15,24 @@
 
    - CD to the `SERVER` directory and run the following command to install server dependencies:
      ```bash
-     npm install
+     > $ npm install
      ```
 
    - CD to the `CLIENT` directory and run the following command to install client dependencies:
      ```bash
-     npm install
+     > $ npm install
      ```
 
 3. **Run the Application**
 
    - Start the server by navigating to the `SERVER` directory and running:
      ```bash
-     npm start
+     > $ npm start
      ```
 
    - Navigate to the `CLIENT` directory and run:
      ```bash
-     npm start
+     > $ npm start
      ```
 
 ## Additional Notes
