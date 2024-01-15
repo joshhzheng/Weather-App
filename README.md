@@ -1,4 +1,4 @@
-# Weather App
+# Weather App⛅🌧️
 
 ## Installation and Usage
 
